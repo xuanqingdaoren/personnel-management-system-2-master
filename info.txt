@@ -1,0 +1,6 @@
+mysqlclient
+tkinter
+ttkbootstrap
+xlrd
+xlwt
+matplotlib
